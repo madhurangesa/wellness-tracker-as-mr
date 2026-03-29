@@ -384,3 +384,21 @@ body {
   .add-row input    { order: 1; }
   .add-row .btn-add { order: 3; width: 100%; }
 }
+.week-range-label {
+  font-size: 12px;
+  color: var(--muted);
+  margin-top: 2px;
+}
+
+.dp-num {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text);
+  line-height: 1;
+}
+
+.check-hint {
+  font-size: 11px;
+  color: var(--subtle);
+  margin-bottom: 4px;
+}
